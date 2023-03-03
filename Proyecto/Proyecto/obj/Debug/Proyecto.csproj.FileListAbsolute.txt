@@ -1,0 +1,40 @@
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\cblaz\Documents\UH\Progra 2\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\cblaz\Documents\UH\Progra 2\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\cblaz\Documents\UH\Progra 2\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\cblaz\Documents\UH\Progra 2\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\cblaz\Documents\UH\Progra 2\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\cblaz\Documents\UH\Progra 2\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\cblaz\Documents\UH\Progra 2\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\cblaz\Documents\UH\Progra 2\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\proyecto01\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\proyecto01\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\proyecto01\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\proyecto01\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\proyecto01\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\proyecto01\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\proyecto01\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\proyecto01\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\cblaz\Downloads\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\cblaz\Downloads\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\cblaz\Downloads\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\cblaz\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\cblaz\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\cblaz\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\cblaz\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\cblaz\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
